@@ -1,0 +1,24 @@
+.contenido {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.botonpgn {
+    padding: 3px;
+    margin: 3px;
+    background-color: rgb(235, 174, 19);
+    border-color: rgb(131, 89, 33);
+    border-radius: 15px;
+    height: 2em;
+    width: 2em;
+    color: rgb(131, 89, 33);
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.botonpgn:hover {
+    background-color: wheat ;
+    color: #000;
+    scale: 105%;
+}

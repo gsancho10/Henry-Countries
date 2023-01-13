@@ -1,0 +1,49 @@
+
+.all {
+    background-image: url('https://img.freepik.com/fotos-premium/mapa-mundo-aislado-sobre-fondo-blanco-tierra-plana-plantilla-mapa-gris-icono-mapamundi-similar-al-globo-viajar-todo-mundo-telon-fondo-silueta-mapa_486333-2155.jpg?w=740');
+    background-size: cover;
+    width: auto;
+    height: 120vh;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
+.titulol {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display:inline-table;
+    justify-content: center;
+    align-content: center;
+}
+
+
+
+
+
+
+.boton {
+    width: 30%;
+    border-radius: 10px;
+    background-color: rgba(192, 67, 10, 0.915);
+    font-size: large;
+    font-style: normal;
+    border-color: rgb(214, 8, 8);
+    color: white; 
+    padding: 7px;
+    box-shadow: 6px;
+    cursor: pointer;
+    
+
+    
+    
+}
+
+.boton:hover {
+    background-color:rgba(237, 100, 100, 0.705) ;
+    color: white;
+    font-weight: lighter;
+    font-size: large;
+}

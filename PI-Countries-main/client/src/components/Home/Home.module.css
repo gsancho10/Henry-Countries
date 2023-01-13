@@ -1,0 +1,48 @@
+.main {
+    background-image: url('https://previews.123rf.com/images/silantiy/silantiy1407/silantiy140700011/30503908-banderas-de-diferentes-pa%C3%ADses-forman-un-fondo-transparente.jpg');
+    background-size:cover;
+    width: auto;
+    height: 290vh;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    
+}.contenedor {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 90%;
+    
+}
+
+
+.filters {
+    background-color: #e99f63;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    display: inline-flex;
+    align-items:center;
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 5px 35px 5px 20px;
+    font-family:'Arvo', serif;
+    margin: 25px 0px 15px 0px;
+    
+}
+
+
+.select {
+    border-radius: 5px;
+    border-color: #07648f;
+    padding: 2px;
+    margin: 5px;
+
+}
+
+
+.paginate {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    padding: 50px;
+}
